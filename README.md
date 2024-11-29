@@ -118,7 +118,7 @@ This section includes self-correction frameworks that train LLMs specifically fo
 
 * **Self-critiquing models for assisting human evaluators.** *William Saunders, Catherine Yeh, Jeff Wu, Steven Bills, Long Ouyang, Jonathan Ward, and Jan Leike.* Preprint. 2022. [[paper](https://arxiv.org/abs/2206.05802)]
 * [Re3] **Re3: Generating Longer Stories With Recursive Reprompting and Revision.** *Kevin Yang, Yuandong Tian, Nanyun Peng, and Dan Klein.* EMNLP. 2022. [[paper](https://aclanthology.org/2022.emnlp-main.296)]
-* [SelFee] **SelFee: Iterative Self-Revising LLM Empowered by Self-Feedback Generation.** *Seonghyeon Ye, Yongrae Jo, Doyoung Kim, Sungdong Kim, Hyeonbin Hwang, and Minjoon Seo.* Blog post. 2023. [[paper](https://kaistai.github.io/SelFee/)]
+* [SelFee] **SelFee: Iterative Self-Revising LLM Empowered by Self-Feedback Generation.** *Seonghyeon Ye, Yongrae Jo, Doyoung Kim, Sungdong Kim, Hyeonbin Hwang, and Minjoon Seo.* Blog post. 2023. [[blog](https://kaistai.github.io/SelFee/)]
 * [Volcano] **Volcano: Mitigating Multimodal Hallucination through Self-Feedback Guided Revision.** *Seongyun Lee, Sue Park, Yongrae Jo, and Minjoon Seo.* NAACL. 2024. [[paper](https://aclanthology.org/2024.naacl-long.23)]
 * [Self-corrective learning] **Generating Sequences by Learning to Self-Correct.** *Sean Welleck, Ximing Lu, Peter West, Faeze Brahman, Tianxiao Shen, Daniel Khashabi, and Yejin Choi.* ICLR. 2023. [[paper](https://openreview.net/forum?id=hH36JeQZDaO)]
 * [REFINER] **REFINER: Reasoning Feedback on Intermediate Representations.** *Debjit Paul, Mete Ismayilzada, Maxime Peyrard, Beatriz Borges, Antoine Bosselut, Robert West, and Boi Faltings.* EACL. 2024. [[paper](https://aclanthology.org/2024.eacl-long.67)]
@@ -133,11 +133,11 @@ This section includes self-correction frameworks that train LLMs specifically fo
 
 OpenAI o1 is a framework focusing on improving reasoning capabilities of LLMs trained with **reinforcement learning** to explore multiple reasoning processess and correct their own mistakes during inference. After the release of OpenAI o1, several papers or projects have proposed frameworks similar to OpenAI o1.
 
-* [OpenAI o1] **Learning to Reason with LLMs.** *OpenAI.* Blog post. 2024. [[paper](https://openai.com/index/learning-to-reason-with-llms/)] [[evaluation paper](https://arxiv.org/abs/2409.18486)]
-* [Skywork-o1] **Skywork-o1 Open Series.** *Skywork-o1 Team.* Blog post. 2024. [[paper](https://huggingface.co/Skywork)].
+* [OpenAI o1] **Learning to Reason with LLMs.** *OpenAI.* Blog post. 2024. [[blog](https://openai.com/index/learning-to-reason-with-llms/)] [[evaluation paper](https://arxiv.org/abs/2409.18486)]
+* [Skywork-o1] **Skywork-o1 Open Series.** *Skywork-o1 Team.* Models. 2024. [[models](https://huggingface.co/Skywork)].
 * [LLaVA-CoT] **LLaVA-CoT: Let Vision Language Models Reason Step-by-Step.** *Guowei Xu, Peng Jin, Hao Li, Yibing Song, Lichao Sun, and Li Yuan.* Preprint. 2024. [[paper](https://arxiv.org/abs/2411.10440)].
 * [Marco-o1] **Marco-o1: Towards Open Reasoning Models for Open-Ended Solutions.** *Yu Zhao, Huifeng Yin, Bo Zeng, Hao Wang, Tianqi Shi, Chenyang Lyu, Longyue Wang, Weihua Luo, and Kaifu Zhang.* Preprint. 2024. [[paper](https://arxiv.org/abs/2411.14405)]
-* [QwQ] **QwQ: Reflect Deeply on the Boundaries of the Unknown.** *Qwen Team.* Blog post. 2024. [[paper](https://qwenlm.github.io/blog/qwq-32b-preview/)]
+* [QwQ] **QwQ: Reflect Deeply on the Boundaries of the Unknown.** *Qwen Team.* Blog post. 2024. [[blog](https://qwenlm.github.io/blog/qwq-32b-preview/)]
 
 For more papers related to OpenAI o1, please also refer to the following repository.
 
