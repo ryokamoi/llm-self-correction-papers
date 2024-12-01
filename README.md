@@ -74,6 +74,7 @@ It has been reported that intrinsic self-correction does not work well in many t
 
 * **Large Language Models Cannot Self-Correct Reasoning Yet.** *Jie Huang, Xinyun Chen, Swaroop Mishra, Huaixiu Steven Zheng, Adams Wei Yu, Xinying Song, and Denny Zhou.* ICLR. 2024. [[paper](https://openreview.net/forum?id=IkmD3fKBPQ)]
 * [CRITIC] **CRITIC: Large Language Models Can Self-Correct with Tool-Interactive Critiquing.** *Zhibin Gou, Zhihong Shao, Yeyun Gong, Yelong Shen, Yujiu Yang, Nan Duan, and Weizhu Chen.* ICLR. 2024. [[paper](https://openreview.net/forum?id=Sx038qxjek)]
+* **When is Tree Search Useful for LLM Planning? It Depends on the Discriminator.** *Ziru Chen, Michael White, Raymond Mooney, Ali Payani, Yu Su, and Huan Sun.* ACL. 2024. [[paper](https://arxiv.org/abs/2402.10890)] [[code](https://github.com/OSU-NLP-Group/llm-planning-eval)]
 
 ## Self-Correction with External Tools
 
