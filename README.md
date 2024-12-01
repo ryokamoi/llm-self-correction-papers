@@ -147,7 +147,9 @@ For more papers related to OpenAI o1, please also refer to the following reposit
 
 ## Contributing
 
-We welcome contributions! If you’d like to add a new paper to this list, please submit a pull request. Kindly use the following format for your entry:
+We welcome contributions! If you’d like to add a new paper to this list, please submit a pull request. **Ensure that your commit and PR have descriptive and unique titles** rather than generic ones like "Updated README.md." 
+
+Kindly use the following format for your entry:
 
 ```md
 * [Short name (if exists)] **Paper Title.** *Author1, Author2, ... , and Last Author.* Conference/Journal/Preprint/Blog post. year. [[paper](url)] [[code, follow up paper, etc.](url)]
