@@ -129,7 +129,7 @@ This section includes self-correction frameworks that train LLMs specifically fo
 
 * [RL4F] **RL4F: Generating Natural Language Feedback with Reinforcement Learning for Repairing Model Outputs.** *Afra Feyza Akyurek, Ekin Akyurek, Ashwin Kalyan, Peter Clark, Derry Tanti Wijaya, and Niket Tandon.* ACL. 2023. [[paper](https://aclanthology.org/2023.acl-long.427)]
 * [RISE] **Recursive Introspection: Teaching Language Model Agents How to Self-Improve.** *Yuxiao Qu, Tianjun Zhang, Naman Garg, and Aviral Kumar.* Preprint. 2024. [[paper](https://arxiv.org/abs/2407.18219)]
-* **Training Language Models to Self-Correct via Reinforcement Learning.** *Aviral Kumar, Vincent Zhuang, Rishabh Agarwal, Yi Su, John D Co-Reyes, Avi Singh, Kate Baumli, Shariq Iqbal, Colton Bishop, Rebecca Roelofs, Lei M Zhang, Kay McKinney, Disha Shrivastava, Cosmin Paduraru, George Tucker, Doina Precup, Feryal Behbahani, and Aleksandra Faust.* Preprint. 2024. [[paper](https://arxiv.org/abs/2409.12917)]
+* [SCoRe] **Training Language Models to Self-Correct via Reinforcement Learning.** *Aviral Kumar, Vincent Zhuang, Rishabh Agarwal, Yi Su, John D Co-Reyes, Avi Singh, Kate Baumli, Shariq Iqbal, Colton Bishop, Rebecca Roelofs, Lei M Zhang, Kay McKinney, Disha Shrivastava, Cosmin Paduraru, George Tucker, Doina Precup, Feryal Behbahani, and Aleksandra Faust.* Preprint. 2024. [[paper](https://arxiv.org/abs/2409.12917)]
 
 ### o1-like Frameworks
 
