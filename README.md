@@ -123,6 +123,7 @@ This section includes self-correction frameworks that train LLMs specifically fo
 * [Volcano] **Volcano: Mitigating Multimodal Hallucination through Self-Feedback Guided Revision.** *Seongyun Lee, Sue Park, Yongrae Jo, and Minjoon Seo.* NAACL. 2024. [[paper](https://aclanthology.org/2024.naacl-long.23)]
 * [Self-corrective learning] **Generating Sequences by Learning to Self-Correct.** *Sean Welleck, Ximing Lu, Peter West, Faeze Brahman, Tianxiao Shen, Daniel Khashabi, and Yejin Choi.* ICLR. 2023. [[paper](https://openreview.net/forum?id=hH36JeQZDaO)]
 * [REFINER] **REFINER: Reasoning Feedback on Intermediate Representations.** *Debjit Paul, Mete Ismayilzada, Maxime Peyrard, Beatriz Borges, Antoine Bosselut, Robert West, and Boi Faltings.* EACL. 2024. [[paper](https://aclanthology.org/2024.eacl-long.67)]
+* [GLoRe] **GLoRe: When, Where, and How to Improve LLM Reasoning via Global and Local Refinements.** *Alex Havrilla, Sharath Raparthy, Christoforus Nalmpantis, Jane Dwivedi-Yu, Maksym Zhuravinskyi, Eric Hambro, and Roberta Raileanu.* Preprint. 2024. [[paper](https://arxiv.org/abs/2402.10963)].
 
 ### Reinforcement Learning
 
