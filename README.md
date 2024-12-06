@@ -146,7 +146,8 @@ OpenAI o1 is a framework focusing on improving reasoning capabilities of LLMs tr
 
 For more papers related to OpenAI o1, please also refer to the following repository.
 
-* [Awesome LLM Strawberry (OpenAI o1)](https://github.com/hijkzzz/Awesome-LLM-Strawberry)
+* [https://github.com/srush/awesome-o1](https://github.com/srush/awesome-o1)
+* [https://github.com/hijkzzz/Awesome-LLM-Strawberry](https://github.com/hijkzzz/Awesome-LLM-Strawberry)
 
 ## Self-Correction of Vision Language Models
 
