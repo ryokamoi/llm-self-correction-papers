@@ -144,7 +144,7 @@ OpenAI o1 is a framework focusing on improving reasoning capabilities of LLMs tr
 * [Marco-o1] **Marco-o1: Towards Open Reasoning Models for Open-Ended Solutions.** *Yu Zhao, Huifeng Yin, Bo Zeng, Hao Wang, Tianqi Shi, Chenyang Lyu, Longyue Wang, Weihua Luo, and Kaifu Zhang.* Preprint. 2024. [[paper](https://arxiv.org/abs/2411.14405)]
 * [QwQ] **QwQ: Reflect Deeply on the Boundaries of the Unknown.** *Qwen Team.* Blog post. 2024. [[blog](https://qwenlm.github.io/blog/qwq-32b-preview/)]
 
-For more papers related to OpenAI o1, please also refer to the following repository.
+For more papers related to OpenAI o1, please also refer to the following repositories.
 
 * [https://github.com/srush/awesome-o1](https://github.com/srush/awesome-o1)
 * [https://github.com/hijkzzz/Awesome-LLM-Strawberry](https://github.com/hijkzzz/Awesome-LLM-Strawberry)
