@@ -49,6 +49,7 @@ We also do not cover generate-and-rank (or sample-and-rank), which generate mult
     - [Supervised Fine-tuning](#supervised-fine-tuning)
     - [Reinforcement Learning](#reinforcement-learning)
     - [o1-like Frameworks](#o1-like-frameworks)
+- [Self-Correction of Vision Language Models](#self-correction-of-vision-language-models)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -147,6 +148,10 @@ For more papers related to OpenAI o1, please also refer to the following reposit
 
 * [Awesome LLM Strawberry (OpenAI o1)](https://github.com/hijkzzz/Awesome-LLM-Strawberry)
 
+## Self-Correction of Vision Language Models
+
+* [Volcano] **Volcano: Mitigating Multimodal Hallucination through Self-Feedback Guided Revision.** *Seongyun Lee, Sue Park, Yongrae Jo, and Minjoon Seo.* NAACL. 2024. [[paper](https://aclanthology.org/2024.naacl-long.23)]
+* [VISCO] **VISCO: Benchmarking Fine-Grained Critique and Correction Towards Self-Improvement in Visual Reasoning.** *Xueqing Wu, Yuheng Ding, Bingxuan Li, Pan Lu, Da Yin, Kai-Wei Chang, and Nanyun Peng.* Preprint. 2024. [[paper](https://arxiv.org/abs/2412.02172)].
 
 ## Contributing
 
