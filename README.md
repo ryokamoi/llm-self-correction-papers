@@ -57,6 +57,7 @@ We also do not cover generate-and-rank (or sample-and-rank), which generate mult
 
 * **Automatically Correcting Large Language Models: Surveying the Landscape of Diverse Automated Correction Strategies.** *Liangming Pan, Michael Saxon, Wenda Xu, Deepak Nathani, Xinyi Wang, and William Yang Wang.* TACL. 2024. [[paper](https://doi.org/10.1162/tacl_a_00660)] [[paper list](https://github.com/teacherpeterpan/self-correction-llm-papers)]
 * **When Can LLMs Actually Correct Their Own Mistakes? A Critical Survey of Self-Correction of LLMs.** *Ryo Kamoi, Yusen Zhang, Nan Zhang, Jiawei Han, and Rui Zhang.* TACL. 2024. [[paper](https://doi.org/10.1162/tacl_a_00713)]
+* **A Survey on LLM Inference-Time Self-Improvement.** *Xiangjue Dong, Maria Teleki, James Caverlee.* Preprint. 2024. [[paper](https://www.arxiv.org/abs/2412.14352)]
 
 ## Intrinsic Self-Correction
 
