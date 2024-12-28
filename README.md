@@ -41,10 +41,10 @@ We also do not cover generate-and-rank (or sample-and-rank), which generate mult
     - [Negative Results of Intrinsic Self-Correction](#negative-results-of-intrinsic-self-correction)
 - [Self-Correction with External Tools](#self-correction-with-external-tools)
     - [with In-Context Learning (External Tools)](#with-in-context-learning-external-tools)
-    - [with Trianing (External Tools)](#with-trianing-external-tools)
+    - [with Training (External Tools)](#with-training-external-tools)
 - [Self-Correction with Information Retrieval](#self-correction-with-information-retrieval)
     - [with In-Context Learning (Information Retrieval)](#with-in-context-learning-information-retrieval)
-    - [with Trianing (Information Retrieval)](#with-trianing-information-retrieval)
+    - [with Training (Information Retrieval)](#with-training-information-retrieval)
 - [Self-Correction with Training Designed for Self-Correction](#self-correction-with-training-designed-for-self-correction)
     - [Supervised Fine-tuning](#supervised-fine-tuning)
     - [Reinforcement Learning](#reinforcement-learning)
@@ -90,7 +90,7 @@ Previous work has proposed self-correction frameworks that use external tools, s
 * [Self-Debug] **Teaching Large Language Models to Self-Debug.** *Xinyun Chen, Maxwell Lin, Nathanael Schärli, and Denny Zhou.* ICLR. 2024. [[paper](https://openreview.net/forum?id=KuPixIqPiq)]
 * [CRITIC] **CRITIC: Large Language Models Can Self-Correct with Tool-Interactive Critiquing.** *Zhibin Gou, Zhihong Shao, Yeyun Gong, Yelong Shen, Yujiu Yang, Nan Duan, and Weizhu Chen.* ICLR. 2024. [[paper](https://openreview.net/forum?id=Sx038qxjek)]
 
-### with Trianing (External Tools)
+### with Training (External Tools)
 
 * [CodeRL] **CodeRL: Mastering Code Generation through Pretrained Models and Deep Reinforcement Learning.** *Hung Le, Yue Wang, Akhilesh Deepak Gotmare, Silvio Savarese, and Steven Chu Hong Hoi.* NeurIPS. 2022. [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/8636419dea1aa9fbd25fc4248e702da4-Paper-Conference.pdf)]
 * [Self-Edit] **Self-Edit: Fault-Aware Code Editor for Code Generation.** *Kechi Zhang, Zhuo Li, Jia Li, Ge Li, and Zhi Jin.* ACL. 2023. [[paper](https://aclanthology.org/2023.acl-long.45)]
@@ -109,7 +109,7 @@ Previous work has proposed self-correction frameworks that use information retri
 * [CRITIC] **CRITIC: Large Language Models Can Self-Correct with Tool-Interactive Critiquing.** *Zhibin Gou, Zhihong Shao, Yeyun Gong, Yelong Shen, Yujiu Yang, Nan Duan, and Weizhu Chen.* ICLR. 2024. [[paper](https://openreview.net/forum?id=Sx038qxjek)]
 * [FLARE] **Active Retrieval Augmented Generation.** *Zhengbao Jiang, Frank Xu, Luyu Gao, Zhiqing Sun, Qian Liu, Jane Dwivedi-Yu, Yiming Yang, Jamie Callan, and Graham Neubig.* EMNLP. 2023. [[paper](https://aclanthology.org/2023.emnlp-main.495)]
 
-### with Trianing (Information Retrieval)
+### with Training (Information Retrieval)
 
 * 
 
