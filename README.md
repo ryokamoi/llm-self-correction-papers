@@ -1,6 +1,6 @@
 # LLM Self-Correction Papers
 
-This repository contains a list of papers on self-correction of large language models (LLMs).
+This repository contains a list of papers on self-correction of large language models (LLMs) published in or before 2024.
 
 The list is maintained by [Ryo Kamoi](https://ryokamoi.github.io/). If you have any suggestions or corrections, please feel free to open an issue or a pull request (refer to [Contributing](#contributing) for details).
 
@@ -168,7 +168,7 @@ For more papers related to OpenAI o1, please also refer to the following reposit
 
 ## Contributing
 
-We welcome contributions! If you’d like to add a new paper to this list, please submit a pull request. **Ensure that your commit and PR have descriptive and unique titles** rather than generic ones like "Updated README.md." 
+We welcome contributions!  To keep the list concise, this list will focus on papers published in or before 2024. If you’d like to add a new paper to this list, please submit a pull request. **Ensure that your commit and PR have descriptive and unique titles** rather than generic ones like "Updated README.md." 
 
 Kindly use the following format for your entry:
 
