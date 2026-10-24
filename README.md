@@ -90,6 +90,7 @@ Previous work has proposed self-correction frameworks that use external tools, s
 * [Logic-LM] **Logic-LM: Empowering Large Language Models with Symbolic Solvers for Faithful Logical Reasoning.** *Liangming Pan, Alon Albalak, Xinyi Wang, and William Wang.* Findings of EMNLP. 2023. [[paper](https://aclanthology.org/2023.findings-emnlp.248)]
 * [Self-Debug] **Teaching Large Language Models to Self-Debug.** *Xinyun Chen, Maxwell Lin, Nathanael Schärli, and Denny Zhou.* ICLR. 2024. [[paper](https://openreview.net/forum?id=KuPixIqPiq)]
 * [CRITIC] **CRITIC: Large Language Models Can Self-Correct with Tool-Interactive Critiquing.** *Zhibin Gou, Zhihong Shao, Yeyun Gong, Yelong Shen, Yujiu Yang, Nan Duan, and Weizhu Chen.* ICLR. 2024. [[paper](https://openreview.net/forum?id=Sx038qxjek)]
+* [TAR] **Translate-and-Revise: Boosting Large Language Models for Constrained Translation.** *Pengcheng Huang, Yongyu Mu, Yuzhang Wu, Bei Li, Chunyang Xiao, Tong Xiao, and Jingbo Zhu.* CCL. 2024. [[paper](https://aclanthology.org/2024.ccl-1.82)] [[project page](https://passionate11.github.io/Translate-and-Revise-project-page/)]
 
 ### with Training (External Tools)
 
